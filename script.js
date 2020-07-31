@@ -7,4 +7,4 @@ setInterval(function() {
 	} else {  
 		cycle = 0; 
 	} 
-}, 70); 
+}, 100); 
